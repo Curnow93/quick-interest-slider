@@ -1,0 +1,67 @@
+<wpml-config>
+  <admin-texts>
+    <key name="qis_settings">
+      <key name="formheader"/>
+      <key name="loanlabel"/>
+      <key name="loaninfo"/>
+      <key name="termlabel"/>
+      <key name="singleperiodlabel"/>
+      <key name="periodlabel"/>
+      <key name="periodinfo"/>
+      <key name="interestlabel"/>
+      <key name="interestinfo"/>
+      <key name="repaymentlabel"/>
+      <key name="outputinterestlabel"/>
+      <key name="outputtotallabel"/>
+      <key name="primarylabel"/>
+      <key name="secondarylabel"/>
+      <key name="outputinfo"/>
+      <key name="nosliderlabel"/>
+      <key name="applynowlabel"/>
+      <key name="currencieslabel"/>
+      <key name="interestname1"/>
+      <key name="interestname2"/>
+      <key name="interestname3"/>
+    </key>
+    <key name="qis_register">
+      <key name="subject"/>
+      <key name="subjecttitle"/>
+      <key name="subjectdate"/>
+      <key name="title"/>
+      <key name="blurb"/>
+      <key name="yourname"/>
+      <key name="youremail"/>
+      <key name="yourtelephone"/>
+      <key name="yourmessage"/>
+      <key name="yourcaptcha"/>
+      <key name="addinfo"/>
+      <key name="qissubmit"/>
+      <key name="errortitle"/>
+      <key name="errorblurb"/>
+      <key name="replytitle"/>
+      <key name="replyblurb"/>
+      <key name="copyblurb"/>
+      <key name="termslabel"/>
+      <key name="checkboxeslabel"/>
+      <key name="check1"/>
+      <key name="check2"/>
+      <key name="check3"/>
+      <key name="dropdownlabel"/>
+      <key name="dropdownlist"/>
+      <key name="radiolabel"/>
+      <key name="radiolist"/>
+      <key name="consentlabel"/>
+      <key name="qis_redirect_url"/>
+    </key>
+    <key name="qis_autoresponder">
+      <key name="subject"/>
+      <key name="subjecttitle"/>
+      <key name="subjectdate"/>
+      <key name="message"/>
+      <key name="useeventdetails"/>
+      <key name="eventdetailsblurb"/>
+      <key name="registrationdetailsblurb"/>
+      <key name="fromname"/>
+    </key>
+  </admin-texts>
+</wpml-config>
